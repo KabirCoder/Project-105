@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(180, 146, 207);
+    color: blueviolet;
+    text-align:center;
+}
+.heading{
+width:80%;
+font-size:30px;
+}
+.name_of_objects{
+    color:darkgoldenrod;
+    font-size:20px;
+    font-family: monospace;
+}
+#camera, #output{
+border:  2px dotted cornflowerblue;
+height:300px;
+width:300px;
+text-align:center;
+}
+
